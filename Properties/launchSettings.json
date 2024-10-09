@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LambdaFunction": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
